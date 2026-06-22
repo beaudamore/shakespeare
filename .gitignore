@@ -9,6 +9,11 @@ unsloth_compiled_cache/
 # Generated outputs
 output/
 
+# Local/generated training data
+data/source-raw/
+data/source-clean/
+data/training-data/
+
 # Environment / secrets
 .env
 .env.*
